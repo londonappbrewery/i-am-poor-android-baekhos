@@ -18,7 +18,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="49dp"
-        android:textSize="40sp"
+        android:textSize="50sp"
         android:text="@string/headline" />
 
     <ImageView
